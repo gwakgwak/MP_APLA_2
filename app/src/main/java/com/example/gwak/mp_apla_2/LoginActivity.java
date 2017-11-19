@@ -1,5 +1,5 @@
 package com.example.gwak.mp_apla_2;
-
+//github
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
